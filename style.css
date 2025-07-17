@@ -1533,6 +1533,10 @@ button:hover {
 }
 
 
-@media(max-width:375px{
+@media(max-width:375px){
+.NavBar{
+max-width: 375px;
+margin: 0 auto;
   
-})
+}
+}
