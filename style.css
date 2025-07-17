@@ -1531,3 +1531,8 @@ button:hover {
 .google-play img {
   cursor: pointer;
 }
+
+
+@media(max-width:375px{
+  
+})
